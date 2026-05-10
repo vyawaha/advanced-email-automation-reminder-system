@@ -1,0 +1,14 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+sqlalchemy==2.0.41
+pandas==2.2.3
+jinja2==3.1.6
+markdown==3.8
+python-dotenv==1.1.0
+aiosmtplib==3.0.2
+apscheduler==3.11.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+pydantic==2.11.4
+email-validator==2.2.0
+pytest==8.3.5

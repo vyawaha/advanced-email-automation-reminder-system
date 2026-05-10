@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+db/email.db
+logs/*.log
+outputs/*.csv
+.idea/
+.vscode/
